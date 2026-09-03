@@ -1,0 +1,7 @@
+*.env
+*.metadata
+*.project
+*.classpath
+*.settings
+token.txt
+/regor_app/target
